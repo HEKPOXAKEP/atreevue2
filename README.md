@@ -26,4 +26,4 @@
 
 Действия с деревом и авторизацией пользователей производятся через запросы из модулей php.
 
-Стэк: Vanilla Javascript (ECMAScript 2018), PHP 8.2.1 (cli), MySql 5.7.39.
+Стэк: Vanilla Javascript (ECMAScript 2018), pure PHP w/Classes 8.2.1 (cli), MySql 5.7.39.
